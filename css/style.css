@@ -153,6 +153,7 @@ p{
 }
 #services .rashevasrule{
     margin-top: 20px;
+    right: auto;
 }
 #services .icon{
     margin-bottom: 60px;
@@ -250,6 +251,9 @@ p{
 }
 #projects .project-item:hover .project-img img{
     transform: scale(1.1);
+}
+#projects .section-title{
+    right: auto;
 }
 /* end imp section */
 

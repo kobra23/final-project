@@ -224,7 +224,6 @@ p{
 #projects .project-info h1{
     font-size: 4rem;
     font-weight: 500;
-    font-family: 'Gloria Hallelujah', cursive;
 }
 #projects .project-info h2{
     font-size: 1.8rem;
@@ -278,11 +277,9 @@ p{
     font-weight: 500;
     letter-spacing: .2rem;
     margin-bottom: 10px;
-    font-family:'Homemade Apple', cursive;
 }
 #about .col-right p{
     margin-bottom: 20px;
-    font-family: 'My Soul', cursive;
 }
 #about .col-right .cta{
     color:black;

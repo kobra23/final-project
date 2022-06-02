@@ -30,7 +30,6 @@ p{
     text-transform: uppercase;
     letter-spacing: .2rem;
     text-align: center;
-    font-family:'Dancing Script', cursive;
     margin-bottom: 40px;
 }
 .section-title span{
@@ -62,7 +61,6 @@ p{
     z-index: 1;
 }
 .me {
-    font-family: 'Blaka', cursive;
     font-size: 5rem;
 }
 #pirveli::after{
@@ -155,8 +153,6 @@ p{
 }
 #services .rashevasrule{
     margin-top: 20px;
-    margin-left: 40px;
-    font-family: 'Press Start 2P', cursive;
 }
 #services .icon{
     margin-bottom: 60px;

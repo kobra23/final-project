@@ -63,6 +63,7 @@ p{
 .chemi {
     color: crimson;
     font-size: 2rem;
+    font-family: 'Lucida Sans', sans-serif;
 }
 #header {
 	position: fixed;
